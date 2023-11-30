@@ -17,6 +17,7 @@ d:/anio/tmp/								anio:anio			1770
 l:/anio/tmp/ram								anio:anio
 
 d:/anio/env/								anio:anio			default
+f:/anio/env/vmm_def.mjs						anio:anio			default
 
 $include environment.sh {"env":"dev"}
 $include environment.sh {"env":"test"}
