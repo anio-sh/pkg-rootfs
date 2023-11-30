@@ -1,0 +1,11 @@
+{
+	"rootfs": {
+		"defaults": {
+			"owner": "anio:anio",
+			"dir_mode": "0750",
+			"file_mode": "0640"
+		},
+
+		"overwrite_existing_files": false
+	}
+}
