@@ -1,8 +1,10 @@
 # path										owner				file mode (empty for links)
-d:/anio/									anio:anio			default
+d:/anio/									anio:anio			0755
 
-d:/anio/bin/								anio:anio			default
-f:/anio/bin/node							anio:anio			0750
+f:/anio/.bashrc								anio:anio			0444
+
+d:/anio/bin/								anio:anio			0755
+f:/anio/bin/node							anio:anio			0755
 
 # Node.js library folder
 #d:/anio/lib/								anio:anio			default
