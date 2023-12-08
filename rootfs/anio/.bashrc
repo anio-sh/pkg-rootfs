@@ -4,7 +4,7 @@
 # This .bashrc will be executed for every bash instance spawned
 #
 
-alias vmm="/anio/bin/anio_vmm /anio/env/vmm_def.mjs"
+alias anio_vmm="ANIO_VMM_DEF_FILE=/anio/env/vmm_def.mjs /anio/bin/anio_vmm"
 
 PATH=/anio/bin/:$PATH
 
